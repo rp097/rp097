@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://www.canva.com/design/DAF6_CVdYOU/XQcugOxgjLgZ7Y0fz0Sn0g/view?utm_content=DAF6_CVdYOU&utm_campaign=designshare&utm_medium=link&utm_source=editor"  />
+  <img height="150" src="Navy Blue Geometric Technology LinkedIn Banner.png"  />
 </div>
 
 ###
