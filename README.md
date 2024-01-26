@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="Navy Blue Geometric Technology LinkedIn Banner (1).png"  />
+  <img height="150" src="Navy Blue Geometric Technology LinkedIn Banner.png"  />
 </div>
 
 ###
