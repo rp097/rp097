@@ -1,8 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Rahul Prem</h1>
 <h3 align="center">A passionate Data Scientist from India, currently pursuing my Masters in Information Technology at Deakin University, Melbourne, Australia!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rp097&label=Profile%20views&color=0e75b6&style=flat" alt="rp097" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rp097" alt="rp097" /></a> </p>
 
 - 🔭 I’m currently working on [the SQL50 problems on LeetCode.](https://github.com/rp097/LeetCode-Repo)
