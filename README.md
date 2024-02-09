@@ -36,6 +36,9 @@
 </ol>
 </p>
 
+<hr>
+
+<h3 align="left">GitHub Activity:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rp097&show_icons=true&locale=en&layout=compact" alt="rp097" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rp097&show_icons=true&locale=en" alt="rp097" /></p>
