@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Rahul Prem</h1>
-<h3 align="center">A passionate Data Scientist from India, currently pursuing my Masters in Information Technology at Deakin University, Melbourne, Australia!</h3>
+<h3 align="center">A passionate Machine Learning Engineer from India, currently completed my Masters in Information Technology at Deakin University, Melbourne, Australia. Actively seeking opportunities as an AI/ML Engineer. </h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rp097" alt="rp097" /></a> </p>
 
