@@ -15,8 +15,6 @@
 
 - 📫 How to reach me **rahulprem90@gmail.com**
 
-- 📄 Know about my experiences [https://shorturl.at/sELRY]
-
 - ⚡ Fun fact **I write and direct stage plays and short films. :)**
 
 <h3 align="left">Connect with me:</h3>
